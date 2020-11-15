@@ -16,7 +16,7 @@
 
 package sample.simple;
 
-import sample.simple.Client.IRun;
+import sample.simple.client.IRun;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
