@@ -22,7 +22,25 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd8cfe06-44ab-40d3-a4f1-676ae53f6fac" name="Default Changelist" comment="" />
+    <list default="true" id="fd8cfe06-44ab-40d3-a4f1-676ae53f6fac" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/sample/data/jpa/domain/Fiche.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sample/data/jpa/domain/Kanban.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sample/data/jpa/domain/Section.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sample/data/jpa/service/AbstractJpaDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sample/data/jpa/service/EntityManagerHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sample/data/jpa/service/FicheDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sample/data/jpa/service/IGenericDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sample/data/jpa/service/KanbanDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sample/data/jpa/service/SectionDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sample/data/jpa/web/CardController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sample/data/jpa/web/CardRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-sample-data-jpa.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-sample-data-jpa.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sample/data/jpa/domain/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sample/data/jpa/domain/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sample/data/jpa/service/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sample/data/jpa/service/UserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sample/data/jpa/web/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sample/data/jpa/web/UserController.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +48,14 @@
   </component>
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -52,7 +78,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/sample/data/jpa/service" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="sample.data.jpa.service" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/sample/data/jpa/service" />
+      <recent name="$PROJECT_DIR$/src/main/java/sample/data/jpa/domain" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -75,5 +110,16 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="452" y="146" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605466445950">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="452" y="146" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/72.27.1294.741@72.27.1294.741" timestamp="1605466445950" />
+    <state x="252" y="55" width="924" height="691" key="Maven.ArtifactSearchDialog" timestamp="1605471135610">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="252" y="55" width="924" height="691" key="Maven.ArtifactSearchDialog/72.27.1294.741@72.27.1294.741" timestamp="1605471135610" />
   </component>
 </project>
